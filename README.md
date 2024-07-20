@@ -14,4 +14,5 @@ Link to the [Airbnb Tableau Dashboard](https://public.tableau.com/views/AirBnBTa
 2. Software:
 - Tableau
 
-## Create sheets
+## Download data
+- download useful data
