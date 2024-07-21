@@ -44,6 +44,8 @@ gain more profit
 find our stakeholder find a really good Airbnb
 
 ## Sheet 1: Price per Zipcode
+![Screenshot 2024-07-20 171611](https://github.com/user-attachments/assets/7ffe6287-13aa-4fd2-a834-6edeb2cb3889)
+
 - Tableau seperates by character and numeric variables
   
 -  find out the average price of each zip code
@@ -59,6 +61,7 @@ find our stakeholder find a really good Airbnb
 
 
 ## Sheet 2: Price by Zipcode (Map)
+![Screenshot 2024-07-20 171651](https://github.com/user-attachments/assets/83665de3-78cc-4a71-80bc-5a870baddf00)
 
 - location data, use same zipcode
 - zipcode in columns
@@ -73,6 +76,7 @@ find our stakeholder find a really good Airbnb
 
 
 ## Sheet 3: Revenue for Year
+![Screenshot 2024-07-20 171718](https://github.com/user-attachments/assets/16720f3a-1ab3-4f6e-baf6-eab9aae3954f)
 
 - im thinking about listing the airbnb but also live in it so i want to know the best times to put it on the market for people to use?
 - when are people spending the most amount of time in airbnbs?
@@ -88,6 +92,7 @@ find our stakeholder find a really good Airbnb
 - i would suggest renting our your airbnb during the summer  from may to the end of the year
 
 ## Sheet 4: Average Price of Bedrooms
+![Screenshot 2024-07-20 171743](https://github.com/user-attachments/assets/212b7621-6526-4c97-b458-8279f140a60f)
 
 what will affect the price of the bedrooms?
 How many bedrooms and how much they cost?
@@ -103,6 +108,7 @@ Bedrooms
 - add label of price on bar graph (price: label), change to AVERAGE price
 
 ## Sheet 5: Discount Count of Bedroom Listings
+![Screenshot 2024-07-20 171807](https://github.com/user-attachments/assets/46c5c20f-72ea-4f5f-bb58-61cc6875a0ba)
 
 What does his competition look like?
 
