@@ -4,6 +4,7 @@
 Creating an Airbnb Dashboard on Tableau to answer business questions related to consumers
 
 Link to the [Airbnb Tableau Dashboard](https://public.tableau.com/views/AirBnBTableauFinalProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+![Dashboard 1 (3)](https://github.com/user-attachments/assets/42938910-d13f-4b9b-8b36-54d536a30001)
 
 ## Resources
 1. Data Source:
