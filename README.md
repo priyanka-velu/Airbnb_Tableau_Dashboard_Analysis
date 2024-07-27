@@ -20,11 +20,6 @@ The objective of this project is to create a comprehensive Airbnb dashboard usin
 - Microsoft Excel
 - Tableau
 
-## Tableau Joins
-- OPEN table listings ID
-- INNER JOIN table calender ON listing ID (double check using the number of rows 100 rows)
-- INNER JOIN table reviews ON listing ID (2 million rows)
-
 ## Main Objectives
 1. **Pricing Analysis**:
    - Determine the average price per zip code.
