@@ -51,8 +51,6 @@ The objective of this project is to create a comprehensive Airbnb dashboard usin
 
 ![Screenshot 2024-07-20 171651](https://github.com/user-attachments/assets/83665de3-78cc-4a71-80bc-5a870baddf00)
 
-### Sheet 2: Price by Zipcode (Map)
-
 **Question 1: What are the geographical trends in Airbnb pricing across the city?**
 - **Answer:** The map visualization reveals that Airbnb prices are generally higher in central and coastal areas, where proximity to attractions, restaurants, and public transportation is greater. Outlying areas tend to have lower prices, suggesting lower demand or fewer premium properties. We observe this when zip code 98134 is central and coastal compared to zipcodes 98125 and 98133, which are located in the outermost area.
 
