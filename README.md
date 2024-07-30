@@ -1,13 +1,10 @@
 # Airbnb Tableau Dashboard
 
 ## Project Overview
-The objective of this project is to create a comprehensive Airbnb dashboard using Tableau to provide actionable insights for potential Airbnb investors. By analyzing key metrics such as pricing, revenue, and competition across various zip codes and property types in Seattle, the dashboard aims to guide investors in making data-driven decisions to maximize profitability and optimize their Airbnb listings.
+Analyzed Airbnb metrics and created an Airbnb Tableau Dashboard to guide Airbnb investors in making data-driven decisions to maximize profitability and optimize their Airbnb listings.
 
-## Airbnb Tableau Dashboard
-[Airbnb Tableau Dashboard](https://public.tableau.com/views/AirBnBTableauFinalProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-
+Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/AirBnBTableauFinalProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ![Dashboard 1 (3)](https://github.com/user-attachments/assets/42938910-d13f-4b9b-8b36-54d536a30001)
-
 
 ## Resources
 1. Data Source:
