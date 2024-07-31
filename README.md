@@ -1,4 +1,4 @@
-# Airbnb Tableau Dashboard
+# Tableau Airbnb Dashboard
 
 ## Project Overview
 Analyzed Airbnb metrics and created an Airbnb Tableau Dashboard to guide Airbnb investors in making data-driven decisions to maximize profitability and optimize their Airbnb listings.
